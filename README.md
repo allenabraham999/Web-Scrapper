@@ -1,2 +1,1 @@
-# allenabraham999-gmail.com
-webscrapper
+A simple Webscrapper to scrape a single webpage using python.
